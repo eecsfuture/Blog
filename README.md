@@ -1,5 +1,3 @@
-# Blog
-
 ### **关于本站**
 
 [eecsfuture](https://github.com/eecsfuture/Blog)是一个原创技术博客。  
