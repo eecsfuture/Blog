@@ -30,7 +30,7 @@ AutoHotkey（AHK）是一个windows下的开源、免费、自动化软件工具
 
 ### **关于本站**
 
-[eecsfuture](https://eecsfuture.github.io/Blog/)是一个原创技术博客。  
+[eecsfuture](https://eecsfuture.github.io/blog/)是一个原创技术博客。  
 
 所有文章按时间倒序排列，不定期更新，欢迎fork和star. 
 
