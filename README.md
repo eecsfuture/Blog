@@ -26,6 +26,12 @@ AutoHotkey（AHK）是一个windows下的开源、免费、自动化软件工具
 
 为了践行《[How to Read a Book](https://en.wikipedia.org/wiki/How_to_Read_a_Book)》一书中的读书方法，也为了强化记忆，我写这个*流水账式*的读书笔记。
 
+### [读书笔记——《学会提问——批判性思维指南》》](https://github.com/eecsfuture/Blog/blob/master/posts/2019-07-02.md)
+
+本书建立了一套进行批判性思考的方法，可以弥补我国教育上缺失的一环，同时能够帮助大家鉴别网络上的信息，免遭蒙蔽。
+
+本书英文名是《Asking the Right Questions: A Guide to Critical Thinking》，Prentice Hall 出版。至今已出到第12版。出了这么多版本，足见其受欢迎的程度。
+
 ---  
 
 ### **关于本站**
