@@ -34,7 +34,7 @@ AutoHotkey（AHK）是一个windows下的开源、免费、自动化软件工具
 
 ### [利用GitHub实现简单的项目管理以及使用Python完成重复性工作](https://github.com/eecsfuture/blog/blob/master/posts/2019-07-03.md)
 
-参照[《如何成为一个管理者》](https://github.com/eecsfuture/Blog/blob/master/posts/2018-06-15.md)，我在团队内部开始推广一套基于GitHub的项目管理方法。
+参照[《如何成为一个管理者》](https://github.com/eecsfuture/blog/blob/master/posts/2018-06-15.md)，我在团队内部开始推广一套基于GitHub的项目管理方法。
 
 同时，利用Python脚本，自动化完成了维护和使用过程中的重复性工作，大大节省了时间。
 
