@@ -50,7 +50,7 @@ AutoHotkey（AHK）是一个windows下的开源、免费、自动化软件工具
 
 [eecsfuture](https://eecsfuture.github.io/blog/)是一个原创技术博客。  
 
-所有文章按时间倒序排列，不定期更新，欢迎fork和star. 
+所有文章按发布时间排列，不定期更新，欢迎fork和star. 
 
 **希望在这里：**
 
