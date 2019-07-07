@@ -3,7 +3,7 @@
 
 # 文章列表
 
-### [如何成为一个管理者](https://github.com/eecsfuture/blog/blob/master/posts/2018-06-15.md)  
+### [如何成为一个管理者（翻译）](https://github.com/eecsfuture/blog/blob/master/posts/2018-06-15.md)  
 这是一份关于领导新团队的指南。可以告诉你领导一个团队需要做的所有事情，并使你成为一个优秀的管理者。
 另一方面，这份指南只是一个框架，需要你进行补充和完善，创造你自己的方法，这样你才能成为最优秀的管理者。  
 
