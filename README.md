@@ -44,6 +44,10 @@ AutoHotkey（AHK）是一个windows下的开源、免费、自动化软件工具
 
 本文总结了我在项目开发过程中遇到的大小端问题。其中，两次与CAN通信有关，一次与DP通信有关。
 
+### [在CCS(Code Composer Studio)的Watch Window中查看有符号数和无符号数](https://github.com/eecsfuture/blog/blob/master/posts/2019-07-16.md)
+
+在使用CCS3.3的Watch Window观测变量值时，发现对于有符号数和无符号数来说，不同的进制对应的值有所不同，做了一个简单的总结。
+
 ---  
 
 ### **关于本站**
