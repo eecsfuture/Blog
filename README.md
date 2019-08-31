@@ -48,6 +48,12 @@ AutoHotkey（AHK）是一个windows下的开源、免费、自动化软件工具
 
 在使用CCS3.3的Watch Window观测变量值时，发现对于有符号数和无符号数来说，不同的进制对应的值有所不同，做了一个简单的总结。
 
+### [电力电子编程入门（PPT和配套资料）](https://github.com/eecsfuture/blog/blob/master/assets/Power-Electronics-Program-Introduction/Slide.pdf)
+
+2019年8月31日，给我们研究生实验室的准研一同学做了一场讲座，关于**电力电子专业的编程入门路线介绍**，包括三个方面内容：（1）电力电子编程学习路线图；（2）特定课程学习建议；（3）工作学习方法分享。
+
+现把讲座的PPT和相关资料分享给大家，全部资料以压缩包形式上传到亿方云网盘，无需安装网盘即可下载，[此链接永久有效](https://v2.fangcloud.com/share/5901d9d83d92f05b66f6749da7)，压缩包解压密码为**073x0Zob54erD09mMUVZAB3EJ0iWHUnF**。
+
 ---  
 
 ### **关于本站**
