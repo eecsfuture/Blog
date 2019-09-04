@@ -52,9 +52,9 @@ AutoHotkey（AHK）是一个windows下的开源、免费、自动化软件工具
 
 2019年8月31日，给我们研究生实验室的准研一同学做了一场讲座，关于**电力电子专业的编程入门路线介绍**，包括三个方面内容：（1）电力电子编程学习路线图；（2）特定课程学习建议；（3）工作学习方法分享。
 
-现把讲座的PPT和相关资料分享给大家，全部资料以压缩包形式上传到亿方云网盘，无需安装网盘即可下载，[**此链接永久有效**](https://v2.fangcloud.com/share/5901d9d83d92f05b66f6749da7)，压缩包解压密码为**073x0Zob54erD09mMUVZAB3EJ0iWHUnF**。
+现把讲座的PPT和相关资料分享给大家，全部资料以压缩包形式上传到亿方云网盘，无需安装网盘即可下载，[**下载链接**](https://v2.fangcloud.com/share/a580e58e38d5c9a075e642a76b)，压缩包解压密码为我的邮箱地址**wangsai@eecsfuture.com**
 
-*如果PPT刷新不出来，可通过[**此链接**](https://v2.fangcloud.com/share/0952c8cd2310f5ace762c1bc75)预览。*
+*如果PPT刷新不出来，可通过[**此链接**](https://v2.fangcloud.com/share/60b4aea08d670d6294d3a8a25b)预览。*
 
 ---  
 
