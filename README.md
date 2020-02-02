@@ -56,6 +56,11 @@ AutoHotkey（AHK）是一个windows下的开源、免费、自动化软件工具
 
 *如果PPT刷新不出来，可通过[**此链接**](https://v2.fangcloud.com/share/60b4aea08d670d6294d3a8a25b)预览。*
 
+### [读书笔记——《如何阅读一本书》](https://github.com/eecsfuture/blog/blob/master/posts/2020-02-01.md)
+
+看过此书就基本上不用再看其他的读书方法论了，这一本就足够了。当然，光看内容简介是远远不够的，一定要花时间自己从头到尾看完！
+
+
 ---  
 
 ### **关于本站**
